@@ -21,5 +21,5 @@ Whether you're just starting out or aiming to land your first security job, this
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/everythingcyber.git
+git clone https://github.com/succeeder360/everythingcyber.git
 cd everythingcyber
